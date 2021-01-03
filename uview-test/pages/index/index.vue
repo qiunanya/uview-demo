@@ -3,6 +3,7 @@
 		<image class="logo" src="/static/logo.png"></image>
 		<view class="text-area">
 			<text class="title">{{title}}</text>
+			<text class="iconfont iconcamera"></text>
 		</view>
 		<u-button >默认按钮</u-button>
 		<u-button type="primary">主要按钮</u-button>
